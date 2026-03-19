@@ -1,0 +1,64 @@
+.services {
+  padding: 50px 0;
+  background: #f5f5f5;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+.services .container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.services .top {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.services .top h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+.services .top p {
+  color: gray;
+  font-size: 14px;
+}
+.services .content {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+.services .left iframe {
+  margin-left: 100px;
+  width: 600px;
+  height: 442px;
+  border-radius: 10px;
+}
+.services .right {
+  max-width: 400px;
+}
+.services .right h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.services .right .desc {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.services .right .item {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+.services .right .item .icon {
+  color: orange;
+  font-size: 20px;
+}
+.services .right .item h4 {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.services .right .item p {
+  font-size: 12px;
+  color: gray;
+}/*# sourceMappingURL=madina.css.map */
